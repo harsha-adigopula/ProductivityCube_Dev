@@ -1,0 +1,7 @@
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\bin\Model.asdatabase
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\bin\Model.deploymenttargets
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\bin\Model.deploymentoptions
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\obj\Development\ProductivityCube_Dev.smproj.CoreCompileInputs.cache
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\obj\Development\Model.asdatabase
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\obj\Development\Model.deploymentoptions
+C:\Users\surabhi.dusane\source\repos\ProductivityCube_Dev\ProductivityCube_Dev\obj\Development\Model.deploymenttargets
